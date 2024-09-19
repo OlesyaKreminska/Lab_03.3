@@ -1,0 +1,5 @@
+﻿  Lab_03.3.cpp
+C:\Users\ Olesya Kreminska\source\repos\Lab_03.3\Lab_03.3.cpp(27,10): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ Olesya Kreminska\source\repos\Lab_03.3\Lab_03.3.cpp(29,10): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ Olesya Kreminska\source\repos\Lab_03.3\Lab_03.3.cpp(32,11): warning C4804: '<': unsafe use of type 'bool' in operation
+  Lab_03.3.vcxproj -> C:\Users\ Olesya Kreminska\source\repos\Lab_03.3\x64\Debug\Lab_03.3.exe
